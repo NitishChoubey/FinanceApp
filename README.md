@@ -114,7 +114,7 @@ Most people know they should track their money. Very few actually do — because
 
 | Home (Light) | Home (Dark) | Transactions | Add Transaction |
 |:---:|:---:|:---:|:---:|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* | *(screenshot)* |
+|<img src="assets/HomeScreen - Light Mode.jpeg" alt="Screen 1" width="250"/>| *(screenshot)* | *(screenshot)* | *(screenshot)* |
 
 | Goals | Insights | AI Tips | Settings |
 |:---:|:---:|:---:|:---:|
