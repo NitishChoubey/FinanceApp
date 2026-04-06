@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_insights">Insights</string>
+
+    <!-- Transactions -->
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="delete_transaction">Delete</string>
+    <string name="transaction_saved">Transaction saved</string>
+    <string name="transaction_deleted">Transaction deleted</string>
+    <string name="transaction_updated">Transaction updated</string>
+    <string name="swipe_to_delete">Swipe left to delete</string>
+
+    <!-- Goals -->
+    <string name="set_goal">Set Budget Goal</string>
+    <string name="goal_saved">Goal saved</string>
+    <string name="goal_deleted">Goal deleted</string>
+    <string name="on_track">On track</string>
+    <string name="near_limit">Near limit</string>
+    <string name="over_budget">Over budget</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_amount_required">Amount is required</string>
+    <string name="error_invalid_amount">Enter a valid number</string>
+    <string name="error_title_required">Title is required</string>
+    <string name="error_category_required">Please select a category</string>
+</resources>
