@@ -114,15 +114,15 @@ Most people know they should track their money. Very few actually do — because
 
 | Home (Light) | Home (Dark) | Transactions | Add Transaction |
 |:---:|:---:|:---:|:---:|
-|<img src="assets/HomeScreen - Light Mode.jpeg" alt="Screen 1" width="250"/>| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+|<img src="assets/HomeScreen - Light Mode.jpeg" alt="Screen 1" width="250"/>| <img src="assets/HomeScreen-DarkMode.jpeg" alt="Screen 1" width="250"/> |<img src="assets/TransactionsScreen.jpeg" alt="Screen 1" width="250"/>|<img src="assets/AddTransactionScreen.jpeg" alt="Screen 1" width="250"/>|
 
 | Goals | Insights | AI Tips | Settings |
 |:---:|:---:|:---:|:---:|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| <img src="assets/GoalsScreen.jpeg" alt="Screen 1" width="250"/> | <img src="assets/InsightsScreen.jpeg" alt="Screen 1" width="250"/> | <img src="assets/AITipsScreen.jpeg" alt="Screen 1" width="250"/> | <img src="assets/SettingsScreen.jpeg" alt="Screen 1" width="250"/> |
 
 | Biometric Lock | Health Score | Forecast | Export |
 |:---:|:---:|:---:|:---:|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| <img src="assets/BiometricScreen.jpeg" alt="Screen 1" width="250"/> | <img src="assets/HealthScreen.jpeg" alt="Screen 1" width="250"/> |<img src="assets/ForecastScreen.jpeg" alt="Screen 1" width="250"/>| <img src="assets/CSV.jpeg" alt="Screen 1" width="250"/> |
 
 > 📹 **Demo Video:** [Watch on Loom / Google Drive](#) *(add your link here)*
 
