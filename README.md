@@ -114,7 +114,7 @@ Most people know they should track their money. Very few actually do — because
 
 | Home (Light) | Home (Dark) | Transactions | Add Transaction |
 |:---:|:---:|:---:|:---:|
-|<img src="assets/HomeScreen - Light Mode.jpeg" alt="Screen 1" width="250"/>| <img src="assets/HomeScreen-DarkMode.jpeg" alt="Screen 1" width="250"/> |<img src="assets/TransactionsScreen.jpeg" alt="Screen 1" width="250"/>|<img src="assets/AddTransactionScreen.jpeg" alt="Screen 1" width="250"/>|
+|<img src="assets/HomeScreen - Light Mode.jpeg" alt="Screen 1" width="250"/>| <img src="assets/HomeScreen-DarkMode.jpeg" alt="Screen 1" width="250"/> |<img src="assets/TransactionsScreen.jpeg" alt="Screen 1" width="250"/>|<img src="assets/AddTransactionsScreen.jpeg" alt="Screen 1" width="250"/>|
 
 | Goals | Insights | AI Tips | Settings |
 |:---:|:---:|:---:|:---:|
@@ -122,7 +122,7 @@ Most people know they should track their money. Very few actually do — because
 
 | Biometric Lock | Health Score | Forecast | Export |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/BiometricScreen.jpeg" alt="Screen 1" width="250"/> | <img src="assets/HealthScreen.jpeg" alt="Screen 1" width="250"/> |<img src="assets/ForecastScreen.jpeg" alt="Screen 1" width="250"/>| <img src="assets/CSV.jpeg" alt="Screen 1" width="250"/> |
+| <img src="assets/BiometricScreen.jpeg" alt="Screen 1" width="250"/> | <img src="assets/HealthScore.jpeg" alt="Screen 1" width="250"/> |<img src="assets/ForecastScreen.jpeg" alt="Screen 1" width="250"/>| <img src="assets/CSV.jpeg" alt="Screen 1" width="250"/> |
 
 > 📹 **Demo Video:** [Watch on Loom / Google Drive](#) *(add your link here)*
 
